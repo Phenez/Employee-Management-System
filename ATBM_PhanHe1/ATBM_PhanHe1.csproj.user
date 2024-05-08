@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Home_Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interface\Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interface\Permission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interface\User_Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Role\Create_R.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Role\Delete_R.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users_Roles\Grant_R.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users_Roles\Grant_U.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users_Roles\Grant_U_R.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users_Roles\Revoke_R.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users_Roles\Revoke_U.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\Create_U.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\Delete_U.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\Update_U.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
